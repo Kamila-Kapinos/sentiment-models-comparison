@@ -208,3 +208,7 @@ __marimo__/
 
 
 data/amazon_reviews.csv
+
+
+.vscode/
+.DS_Store
