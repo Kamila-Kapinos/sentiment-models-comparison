@@ -24,3 +24,10 @@ pip install -r requirements.txt
 
 # Link virtual environment to Jupyter
 python -m ipykernel install --user --name=sent-mag-env --display-name "Python (Sent-Mag)"
+```
+
+## Final models
+
+- `svm_sentiment_final.ipynb` - SVM + TF-IDF baseline
+- `bilstm_glove_sentiment_final.ipynb` - BiLSTM + GloVe
+- `roberta_sentiment_final.ipynb` - transformer RoBERTa/DistilRoBERTa; default settings are conservative for a 16 GB RAM machine

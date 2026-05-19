@@ -209,6 +209,14 @@ __marimo__/
 
 data/amazon_reviews.csv
 
+# Model artifacts and training checkpoints
+models/
+bert_amazon_model/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
 
 .vscode/
 .DS_Store
