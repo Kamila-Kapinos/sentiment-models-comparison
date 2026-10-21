@@ -207,9 +207,11 @@ marimo/_lsp/
 __marimo__/
 
 
+# Project
 data/amazon_reviews.csv
-
-
+data/glove.*.txt
+sample_data/
+models/
+bert_amazon_model/
 .vscode/
 .DS_Store
-models/
