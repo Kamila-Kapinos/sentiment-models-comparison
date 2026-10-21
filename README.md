@@ -76,3 +76,7 @@ Tested with Python 3.10.
 ## Tech stack
 
 Python · scikit-learn · PyTorch · Hugging Face Transformers · pandas · NumPy · matplotlib · seaborn · Jupyter
+
+## License
+
+[MIT](LICENSE)
