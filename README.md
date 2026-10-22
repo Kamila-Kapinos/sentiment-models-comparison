@@ -56,8 +56,8 @@ The notebooks' comments and markdown are in Polish.
 ## Setup
 
 ```bash
-git clone git@github.com:Kamila-Kapinos/sentiment-analysis-magisterka.git
-cd sentiment-analysis-magisterka
+git clone git@github.com:Kamila-Kapinos/sentiment-models-comparison.git
+cd sentiment-models-comparison
 
 python3 -m venv .venv
 source .venv/bin/activate            # Windows: .\.venv\Scripts\activate
